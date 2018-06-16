@@ -1,8 +1,9 @@
 ## Poznaj mnie
 
 ### Ulubione narzedzia testerskie
--Selenium
--Appium
+<br>
+-Selenium<br/><br>
+-Appium<br/>
 -JIRA
 
 Studiowałam na kierunku:
