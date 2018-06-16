@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Poznaj mnie
+
+### Ulubione narżedzia testerskie
+-Selenium
+-Appium
+-JIRA
+
+Studiowałam na kierunku:
+[Oto moje studia testerskie](https://www.wsb.pl/wroclaw/studenci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
 
 You can use the [editor on GitHub](https://github.com/katarzynaszwalek/super_interaktywne_cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
