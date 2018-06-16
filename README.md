@@ -8,9 +8,7 @@
 Studiowałam na kierunku:
 [Oto moje studia testerskie](https://www.wsb.pl/wroclaw/studenci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
 
-You can use the [editor on GitHub](https://github.com/katarzynaszwalek/super_interaktywne_cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
