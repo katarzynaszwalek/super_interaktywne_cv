@@ -1,10 +1,10 @@
 ## Poznaj mnie
 
 ### Ulubione narzedzia testerskie
-<br>
--Selenium<br/><br>
+
+-Selenium<br/>
 -Appium<br/>
--JIRA
+-JIRA<br/>
 
 Studiowałam na kierunku:
 [Oto moje studia testerskie](https://www.wsb.pl/wroclaw/studenci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-
